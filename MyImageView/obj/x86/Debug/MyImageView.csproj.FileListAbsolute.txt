@@ -1,0 +1,78 @@
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\bin\Debug\MyImageView.exe
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\bin\Debug\MyImageView.pdb
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.exe
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.pdb
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Form2.resources
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\bin\Debug\MyImageView.exe
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\bin\Debug\MyImageView.pdb
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.csproj.GenerateResource.Cache
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.exe
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.pdb
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.exe
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.pdb
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\bin\Debug\MyImageView.exe
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\bin\Debug\MyImageView.pdb
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView\MyImageView\obj\x86\Debug\MyImageView.csproj.GenerateResource.Cache
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.exe
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.pdb
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\bin\Debug\MyImageView.exe
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\bin\Debug\MyImageView.pdb
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.csproj.GenerateResource.Cache
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\Interop.DSOFile.dll
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.csproj.ResolveComReference.cache
+C:\Users\shang\Desktop\Subject\C#\Project\ImageView\MyImageView  Whole\MyImageView\bin\Debug\Interop.DSOFile.dll
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.csproj.ResolveComReference.cache
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.exe
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.pdb
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\obj\x86\Debug\MyImageView.csproj.GenerateResource.Cache
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\bin\Debug\MyImageView.exe
+C:\Users\Stereo\Desktop\MyImageView  Whole\MyImageView\bin\Debug\MyImageView.pdb
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x86\Debug\Interop.DSOFile.dll
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.csproj.ResolveComReference.cache
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.exe
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.pdb
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\bin\Debug\MyImageView.exe
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\bin\Debug\MyImageView.pdb
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\bin\Debug\Interop.DSOFile.dll
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.csproj.GenerateResource.Cache
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\Interop.DSOFile.dll
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.csproj.ResolveComReference.cache
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.exe
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.pdb
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\bin\Debug\MyImageView.exe
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\bin\Debug\MyImageView.pdb
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\bin\Debug\Interop.DSOFile.dll
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+C:\Users\shang\Desktop\Subject\C#\Project\MyImageView  Whole1\MyImageView\obj\x86\Debug\MyImageView.csproj.GenerateResource.Cache
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\Interop.DSOFile.dll
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\MyImageView.csproj.ResolveComReference.cache
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\MyImageView.exe
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\MyImageView.pdb
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\bin\Debug\MyImageView.exe
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\bin\Debug\MyImageView.pdb
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\bin\Debug\Interop.DSOFile.dll
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\MyImageView.csprojResolveAssemblyReference.cache
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+G:\Github\C#\图片浏览器\imageV最终版\MyImageView\obj\x86\Debug\MyImageView.csproj.GenerateResource.Cache

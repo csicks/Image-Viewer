@@ -1,0 +1,62 @@
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.exe
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.pdb
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form1.resources
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form2.resources
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Properties.Resources.resources
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\GenerateResource.read.1.tlog
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\GenerateResource.write.1.tlog
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.exe
+C:\Users\Andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.pdb
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\obj\x64\Release\MyImageView.exe
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\obj\x64\Release\MyImageView.pdb
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\bin\x64\Release\MyImageView.exe
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\bin\x64\Release\MyImageView.pdb
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\obj\x64\Release\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form1.resources
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form2.resources
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\obj\x64\Release\MyImageView.Properties.Resources.resources
+C:\Users\CuiShuning\Documents\Visual Studio 2010\MyImageView\MyImageView\obj\x64\Release\MyImageView.csproj.GenerateResource.Cache
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.exe
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.pdb
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.exe
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.pdb
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form1.resources
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Properties.Resources.resources
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.csproj.GenerateResource.Cache
+C:\Users\CuiShuning\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.exe
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.pdb
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form1.resources
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Properties.Resources.resources
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.csproj.GenerateResource.Cache
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.exe
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.pdb
+C:\Users\舒宁\Documents\Visual Studio 2012\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.csprojResolveAssemblyReference.cache
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.exe
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.pdb
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.exe
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\bin\x64\Release\MyImageView.pdb
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form1.resources
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.Properties.Resources.resources
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.csproj.GenerateResource.Cache
+C:\Users\舒宁\Documents\Visual Studio 2013\Projects\MyImageView\MyImageView\obj\x64\Release\MyImageView.csprojResolveAssemblyReference.cache
+I:\MyImageView\MyImageView\obj\x64\Release\MyImageView.exe
+I:\MyImageView\MyImageView\obj\x64\Release\MyImageView.pdb
+I:\MyImageView\MyImageView\bin\x64\Release\MyImageView.exe
+I:\MyImageView\MyImageView\bin\x64\Release\MyImageView.pdb
+I:\MyImageView\MyImageView\obj\x64\Release\MyImageView.csprojResolveAssemblyReference.cache
+I:\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form1.resources
+I:\MyImageView\MyImageView\obj\x64\Release\MyImageView.Properties.Resources.resources
+I:\MyImageView\MyImageView\obj\x64\Release\MyImageView.csproj.GenerateResource.Cache
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x64\Release\MyImageView.exe
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x64\Release\MyImageView.pdb
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\bin\x64\Release\MyImageView.exe
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\bin\x64\Release\MyImageView.pdb
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x64\Release\MyImageView.Form1.resources
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x64\Release\MyImageView.Properties.Resources.resources
+C:\Users\w7\Desktop\C#\Project\ImageView\MyImageView\MyImageView\obj\x64\Release\MyImageView.csproj.GenerateResource.Cache
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x64\Release\Interop.DSOFile.dll
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x64\Release\MyImageView.csproj.ResolveComReference.cache
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x64\Release\MyImageView.exe
+C:\Users\john\Desktop\整合\MyImageView  Whole1\MyImageView\obj\x64\Release\MyImageView.pdb
