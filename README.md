@@ -1,5 +1,5 @@
-# ImageViewr
-Implemention of a simple image viewer.
+# ImageViewer
+Implementation of a simple image viewer.
 
 Instructions in the software are mainly in Chinese. 
 
